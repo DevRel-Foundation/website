@@ -1,0 +1,4 @@
+{{ $columns := .Get "count" | default "3" }}
+<div class="img-cards columns-{{ $columns }}">
+    {{ .Inner }}
+</div>
