@@ -12,7 +12,7 @@ custom_css: []
 images: ["/img/todo-social-share.png"]
 
 github:
-  repo_url: "https://github.com/todogroup/todogroup.org/blob/main"
+  repo_url: "https://github.com/DevRel-Foundation/website"
   show_edit_link: true
 
 social_links:
