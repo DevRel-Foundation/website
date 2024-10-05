@@ -1,38 +1,17 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2fe3c42f-494a-4377-9088-8a2d4aad9556/deploy-status)](https://app.netlify.com/sites/todogroup/deploys)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Site](https://img.shields.io/badge/Static%20site-HUGO-%23FF00FF)](https://gohugo.io/)
 
-# The TODO group website assets
+# The DevRel website
 
-This repo houses the assets used to build the website for the [TODO Group](https://todogroup.org/) at https://todogroup.org.
-
-## 📝 Adding Resources
-
-TODO Group operates through different working groups and initiatives, each of them with their unique [contribution guidelines and communication channels](https://todogroup.org/community/meetings/).
-
-We encourage people to [join the community](https://todogroup.org/community/get-started/) and get started with contributions to the different TODO initiatives:
-
-* OSPOlogy Panel Discussions
-* OSPO Book
-* OSPO Glossary
-* OSPO MindMap
-* OSPO Training Modules
-* OSPO Newsletter
-* TODO Guides
-* OSPO Use Cases
-* OSPO Landscape
-* OSPO Survey
-* RepoLinter
-* TODO Artwork
+This repo houses the assets used to build the website for the [DevRel](https://dev-rel.org/) at https://dev-rel.org.
 
 
 ## 🧩 Editing the site
 
 This site is built using the [Hugo](https://gohugo.io) static site generator and hosted on [Netlify](https://netlify.com). The site uses the [Dot-Org Theme for Hugo](https://github.com/cncf/dot-org-hugo-theme) as a base and then has its own customisations.
 
- In order to build or locally develop the website, you'll need to install [Hugo](https://gohugo.io) and [node.js](https://nodejs.org/en).
+In order to build or locally develop the website, you'll need to install [Hugo](https://gohugo.io) and [node.js](https://nodejs.org/en).
 
- If you don't have them installed, you can install them via [brew.sh](https://brew.sh).
+If you don't have them installed, you can install them via [brew.sh](https://brew.sh).
 
 ```bash
 # macOS
