@@ -1,7 +1,7 @@
 ######################## custom scripts & styles ####################
 
 # Add custom assets relative to /static or via https
-logo_on_white: "/img/todo-logo-on-white.svg"
+logo_on_white: "/img/logo.png"
 logo_on_black: "/img/todo-logo-on-black.svg"
 custom_js: []
 custom_css: []
