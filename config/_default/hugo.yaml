@@ -24,6 +24,7 @@ privacy:
   vimeo:
     enableDNT: true
 
-permalinks:
-  case-studies: "/resources/case-studies/:slug/"
-  guides: "/resources/guides/:slug/"
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

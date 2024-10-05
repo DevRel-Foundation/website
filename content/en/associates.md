@@ -11,7 +11,42 @@ TODO Group community is open to all and is formed by its Community participants 
 
 * Community participants coming from **entities focused on [OSPO-related topics](https://ospomindmap.todogroup.org/) who help OSPOs but may not have an OSPO** can support TODO by becoming [OSPO Associates](https://github.com/todogroup/governance/blob/main/OSPO-Associate-Program.md#-ways-you-can-support-todo).
 
-{{< todo_associates >}}
+{{< cards count=4 >}}
+{{< card >}}
+{{< img src="/img/supporters/chaoss.svg" width=225 height=150 alt="Chaoss logo" >}}
+{{< /card >}}
+
+{{< card >}}
+{{< img src="/img/supporters/esop.svg" width=225 height=150 alt="ESOP logo" >}}
+{{< /card >}}
+
+{{< card >}}
+{{< img src="/img/supporters/finos.svg" width=225 height=150 alt="Finos logo" >}}
+{{< /card >}}
+
+{{< card >}}
+{{< img src="/img/supporters/lf-apac.svg" width=225 height=150 alt="LF APAC logo" >}}
+{{< /card >}}
+
+{{< card >}}
+{{< img src="/img/supporters/lf-energy.svg" width=225 alt="LF Energy logo" >}}
+{{< /card >}}
+
+{{< card >}}
+{{< img src="/img/supporters/lf-europe.svg" width=225 alt="LF Europe logo" >}}
+{{< /card >}}
+
+{{< card >}}
+{{< img src="/img/supporters/openchain.svg" width=225 alt="Openchain logo" >}}
+{{< /card >}}
+
+{{< card >}}
+{{< img src="/img/supporters/openssf.svg" width=225 alt="openssf logo" >}}
+{{< /card >}}
+
+
+
+{{< /cards >}}
 
 ## What is the OSPO Associate Program and the OSPO Associates?
 
