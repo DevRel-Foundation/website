@@ -32,6 +32,12 @@ en:
       weight: 1
       post: "The mission of the project and its community"
       parent: "about"
+    - identifier: "people-map"
+      name: "People Map"
+      url: "/people-map/"
+      weight: 1
+      post: "See our people on a map"
+      parent: "about"
     - identifier: "steering-committee"
       name: "Steering Committee"
       url: "/about/steering-committee/"
