@@ -1,7 +1,9 @@
 // Define CSS variables
 :root {
-  --condensed-font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
-  --rounded-font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
+  --condensed-font-family: "Roboto Slab", "Impact", "Arial Black", sans-serif, -apple-system, BlinkMacSystemFont, Roboto,
+    Ubuntu;
+  --rounded-font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, Roboto,
+    Ubuntu, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 
   --text-color: var(--black);
   --black: #000000;
