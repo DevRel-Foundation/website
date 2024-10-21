@@ -3,9 +3,9 @@ en:
   weight: 1
   ### copyright (markdown can be used) ###
   copyright: "All content licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), unless otherwise noted. All rights reserved. The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our [Trademark Usage](https://www.linuxfoundation.org/trademark-usage) page. Linux is a registered trademark of Linus Torvalds. [Privacy Policy](https://www.linuxfoundation.org/privacy) and [Terms of Use](https://www.linuxfoundation.org/terms). [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
-  title: "TODO Group // Talk openly, develop openly"
+  title: "DevRel site // Talk openly, develop openly"
   params:
-    description: "TODO: talk openly, develop openly. We believe we can better improve our open source programs - and our contributions to the open source movement as a whole - by working together."
+    description: "DevRel site: talk openly, develop openly. We believe we can better improve our open source programs - and our contributions to the open source movement as a whole - by working together."
     ### accessibility ###
     accessibility:
       skip_text: "Skip to content"
@@ -16,7 +16,7 @@ en:
       text: "Join"
       link: "/join/"
     footer_cta:
-      text: "Join TODO"
+      text: "Join DevRel"
       link: "/join/"
     github_edit: "Edit this page on GitHub"
   ### example menu showing children ###
@@ -37,18 +37,6 @@ en:
       url: "/people-map/"
       weight: 1
       post: "See our people on a map"
-      parent: "about"
-    - identifier: "steering-committee"
-      name: "Steering Committee"
-      url: "/about/steering-committee/"
-      weight: 2
-      post: "The people who define TODO's goals and provide stewardship in the community"
-      parent: "about"
-    - identifier: "members"
-      name: "Members"
-      url: "/about/members/"
-      weight: 3
-      post: "The organizations supporting OSPO adoption worldwide"
       parent: "about"
     - identifier: "associates"
       name: "Associates"
@@ -78,42 +66,6 @@ en:
       name: "Resources"
       url: "/resources/"
       weight: 2
-    - identifier: "glossary"
-      name: "Glossary"
-      url: "/resources/glossary/"
-      weight: 1
-      post: "Common terms and definitions of OSPO"
-      parent: "resources"
-    - identifier: "studies"
-      name: "Studies"
-      url: "/resources/studies/"
-      weight: 2
-      post: "Maturity model, surveys, and reports to help your OSPO journey"
-      parent: "resources"
-    - identifier: "mindmap"
-      name: "MindMap"
-      url: "/resources/mindmap/"
-      weight: 3
-      post: "Responsibilities, roles, behavior, and team sizes within OSPOs"
-      parent: "resources"
-    - identifier: "training"
-      name: "Training Modules"
-      url: "/resources/training/"
-      weight: 4
-      post: "Free and open courses covering everything you need to know"
-      parent: "resources"
-    - identifier: "guides"
-      name: "Guides"
-      url: "/resources/guides/"
-      weight: 5
-      post: "Open source program management best practices for organizations"
-      parent: "resources"
-    - identifier: "case-studies"
-      name: "Case Studies"
-      url: "/resources/case-studies/"
-      weight: 6
-      post: "Real case studies showcasing the impact of OSPOs on organizations worldwide"
-      parent: "resources"
     - identifier: "artwork"
       name: "Brand Guidebook"
       url: "/resources/guidebook/"
@@ -136,29 +88,11 @@ en:
       weight: 2
       post: "Engage with the community via TODO chat, forum, and mailing list"
       parent: "community"
-    - identifier: "virtual-meetings"
-      name: "Meetings and Calendar"
-      url: "/community/meetings/"
-      weight: 3
-      post: "Join OSPOlogy monthly webinars and working group meetings"
-      parent: "community"
     - identifier: "events"
       name: "Events"
       url: "/community/events/"
       weight: 4
       post: "Explore events and roundtable meetings around the world"
-      parent: "community"
-    - identifier: "ambassadors"
-      name: "TODO Ambassadors"
-      url: "/community/ambassadors/"
-      weight: 5
-      post: "Experienced practitioners helping others get started in OSPO and TODO"
-      parent: "community"
-    - identifier: "osponews"
-      name: "OSPONews"
-      url: "/community/osponews/"
-      weight: 6
-      post: "The monthly OSPO newsletter"
       parent: "community"
     - identifier: "blog"
       name: "Blog"
