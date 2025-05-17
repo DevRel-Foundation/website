@@ -1,6 +1,6 @@
 ---
-title: Communication Channels
-url: "/community/comms/"
+title: Working Groups
+url: "/working-groups/"
 ---
 
 {{< intro >}}

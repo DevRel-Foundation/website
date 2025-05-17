@@ -13,11 +13,11 @@ en:
       help_url: ""
     ### calls to action ###
     main_cta:
-      text: "Join"
-      link: "/join/"
+      text: "Get Involved"
+      link: "/get-involved/"
     footer_cta:
-      text: "Join DevRel"
-      link: "/join/"
+      text: "Get Involved"
+      link: "/get-involved/"
     github_edit: "Edit this page on GitHub"
   ### example menu showing children ###
   menu:
@@ -27,74 +27,34 @@ en:
       url: "/about/"
       weight: 1
     - identifier: "about-us"
-      name: "About TODO Group"
+      name: "About DRF"
       url: "/about/about-us/"
       weight: 1
-      post: "The mission of the project and its community"
-      parent: "about"
-    - identifier: "people-map"
-      name: "People Map"
-      url: "/people-map/"
-      weight: 1
-      post: "See our people on a map"
-      parent: "about"
-    - identifier: "associates"
-      name: "Associates"
-      url: "/about/associates/"
-      weight: 4
-      post: "Projects, communities & foundations supporting TODO and OSPO"
-      parent: "about"
-    - identifier: "charter"
-      name: "Member Charter"
-      url: "/about/charter/"
-      weight: 6
-      post: "Charter of The TODO Group General Members (GM) and Steering Committee (SC)"
       parent: "about"
     - identifier: "code-of-conduct"
       name: "Code of Conduct"
       url: "/about/code-of-conduct/"
-      weight: 7
-      post: "Values that make TODO  a welcoming and safe community"
-      parent: "about"
-    - identifier: "faq"
-      name: "Q&A"
-      url: "/about/faqs/"
-      weight: 8
-      post: "Frequently Asked Questions"
-      parent: "about"
-    - identifier: "resources"
-      name: "Resources"
-      url: "/resources/"
-      weight: 2
-    - identifier: "artwork"
-      name: "Brand Guidebook"
-      url: "/resources/guidebook/"
-      weight: 7
-      post: "TODO Brand Guidebook and visual identity"
-      parent: "resources"
-    - identifier: "community"
-      name: "Community"
-      url: "/community/"
-      weight: 3
-    - identifier: "get-started"
-      name: "Get started"
-      url: "/community/get-started/"
       weight: 1
-      post: "Helpful onboarding resources for the community and members"
-      parent: "community"
-    - identifier: "communication-channels"
-      name: "Communication Channels"
-      url: "/community/comms/"
+      parent: "about"
+    - identifier: "charter"
+      name: "Charter"
+      url: "/about/charter/"
+      weight: 1
+      parent: "about"
+    - identifier: "brand"
+      name: "Brand"
+      url: "/brand/"
       weight: 2
-      post: "Engage with the community via TODO chat, forum, and mailing list"
-      parent: "community"
-    - identifier: "events"
-      name: "Events"
-      url: "/community/events/"
+    - identifier: "team"
+      name: "Team"
+      url: "/team/"
+      weight: 3
+    - identifier: "working-groups"
+      name: "Working Groups"
+      url: "/working-groups/"
       weight: 4
-      post: "Explore events and roundtable meetings around the world"
-      parent: "community"
-    - identifier: "blog"
-      name: "Blog"
-      url: "/blog/"
-      weight: 4
+    - identifier: "contact"
+      name: "Contact"
+      url: "/contact/"
+      weight: 5
+

@@ -1,6 +1,6 @@
 ---
-title: Charter
-url: "/about/charter/"
+title: Brand
+url: "/brand/"
 ---
 
 Disclaimer: Please note this charter covers the activities and

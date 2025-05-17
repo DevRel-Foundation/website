@@ -1,5 +1,5 @@
 ---
-title: Join TODO Group
+title: Get Involved
 ---
 
 {{< intro >}}

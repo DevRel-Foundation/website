@@ -1,6 +1,6 @@
 ---
-title: Virtual Meetings
-url: "/community/meetings/"
+title: Contact
+url: "/contact/"
 ---
 
 ## Learning Space
