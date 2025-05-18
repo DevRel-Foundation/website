@@ -43,18 +43,29 @@ en:
       parent: "about"
     - identifier: "brand"
       name: "Brand"
-      url: "/brand/"
-      weight: 2
+      url: "/about/brand/"
+      weight: 1
+      parent: "about"
+    - identifier: "contact"
+      name: "Contact"
+      url: "/about/contact/"
+      weight: 1
+      parent: "about"
     - identifier: "team"
       name: "Team"
-      url: "/team/"
-      weight: 3
+      url: "/about/team/"
+      weight: 1
+      parent: "about"
+    - identifier: "resources"
+      name: "Resources"
+      url: "/resources/"
+      weight: 2
     - identifier: "working-groups"
       name: "Working Groups"
       url: "/working-groups/"
+      weight: 3
+    - identifier: "FAQ"
+      name: "FAQ"
+      url: "/faqs/"
       weight: 4
-    - identifier: "contact"
-      name: "Contact"
-      url: "/contact/"
-      weight: 5
 
