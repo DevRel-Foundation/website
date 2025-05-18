@@ -3,19 +3,20 @@ title: About us
 url: "/about/about-us/"
 ---
 
-Open Source initiatives within organizations face many challenges, such as:
+The Developer Relations Foundation is an open community of practitioners who aim to elevate the professional practice of developer relations.
 
-* Educating developers to good open source practices
-* Building policies and infrastructure around the open source projects that matters to them
-* Ensuring high-quality and frequent releases
-* Engaging with developer communities
-* Contributing back to other projects effectively
+This initiative stems from a shared passion for DevRel and the recognition that the profession faces persistent challenges, such as a lack of clarity and difficulty in measuring impact. Despite significant growth in resources and organizations addressing these issues, these resources are fragmented. Our goal is to **create an inclusive, community-driven entity that formally defines DevRel practices, addresses common challenges with best-in-practice resources, and attracts both individuals and organizations’ decision-makers**.
 
-Overall, organizations need some guidance to start and keep advancing in
-their [OSPO Journey](https://linuxfoundation.org/wp-content/uploads/LFResearch_OSPO_Report.pdf).
+##  Why a Foundation?
 
-The community and [General Members](/members) of this group are committed to working together in order to overcome these challenges. We will be sharing experiences, developing best
-practices, and working on common tooling. But we can’t do this alone. If you are willing to advance in your open source journey, we welcome you to [join the community](/community).
-Organizations with an established OSPO or similar open source initiative, can also [support](/join) TODO becoming General Members.
+The major benefit of a foundation is that it promotes participatory governance, preventing any single company from monopolizing a collaborative project. Specifically, a foundation ensures:
 
-{{< todo_presentation >}}
+- Community-driven Governance: Projects are managed by the community for the community, with contributions reviewed and accepted based on merit.
+
+- Open Source: Contributors can use the project's resources without fearing sudden changes in licensing or direction.
+
+- Impartiality: contributions to the content and direction are accepted based on their community value, regardless of their impact on any particular vendor.
+
+A foundation aims to be a trusted, credible, and expert resource, similar to professional bodies in other fields, providing training, certification, continuing education, and advocacy.
+
+ > For more information, please read the foundation [charter](https://github.com/DevRel-Foundation/governance/blob/main/Technical_Charter_v1.0.adoc).

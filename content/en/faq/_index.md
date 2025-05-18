@@ -1,6 +1,6 @@
 ---
-title: FAQs
-url: "/about/faqs/"
+title: FAQ
+url: "/faqs/"
 ---
 
 {{< intro >}}
