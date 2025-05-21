@@ -20,24 +20,24 @@ social_links:
   discord: ""
   facebook: ""
   flickr: ""
-  github: "https://github.com/todogroup/todogroup.org"
+  github: "https://github.com/DevRel-Foundation"
   instagram: ""
-  landscape: "https://landscape.todogroup.org"
-  linkedin: "https://www.linkedin.com/company/todo-group/"
-  mastodon: "https://social.lfx.dev/@todogroup"
+  landscape: ""
+  linkedin: "https://www.linkedin.com/company/devrel-foundation/"
+  mastodon: ""
   pinterest: ""
-  rss: "https://todogroup.org/index.xml"
-  slack: "https://thetodogroup.slack.com"
+  rss: ""
+  slack: ""
   stackoverflow: ""
   threads: ""
   twitter: ""
-  x: "https://twitter.com/todogroup"
-  youtube: "https://youtube.com/@ospology"
+  x: ""
+  youtube: ""
 
 # Makes the header sticky on tall screens
 sticky_header: true
 # Enable search in header UI
-show_search: true
+show_search: false
 
 # Google Maps API key for people_map shortcode
 google_maps_api_key: "AIzaSyD5FrFpAN6jniMZTnQbTLkGGDSLH7wl5Wc"
