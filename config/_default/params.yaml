@@ -1,7 +1,7 @@
 ######################## custom scripts & styles ####################
 
 # Add custom assets relative to /static or via https
-logo_on_white: "/img/logo.svg"
+logo_on_white: "/img/logo_white.svg"
 logo_on_black: "/img/logo.svg"
 custom_js: []
 custom_css: []
