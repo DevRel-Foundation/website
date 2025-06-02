@@ -12,9 +12,10 @@ en:
       help_text: ""
       help_url: ""
     ### calls to action ###
-    main_cta:
-      text: "Get Involved"
-      link: "/get-involved/"
+
+    ###main_cta:
+      ###text: "Get Involved"
+      ###link: "/get-involved/"
     footer_cta:
       text: "Get Involved"
       link: "/get-involved/"
