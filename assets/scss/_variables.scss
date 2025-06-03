@@ -3,8 +3,11 @@
   --condensed-font-family: 'Nunito', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   --rounded-font-family: 'Nunito Sans', 'Nunito', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 
-  --text-color: #515151;
-  --background-color: #fffdf5;
+  --background-color: #fffbea;               /* hsl(48, 100%, 98%) */
+  --text-color-text: #525252;                     /* hsl(0, 0%, 32%) */
+  --color-background-secondary-1: #f9f3d8;   /* hsl(48, 61.8%, 94%) */
+  --color-background-secondary-2: #ebe7d9;   /* hsl(48, 13%, 92%) */
+  --header-color:#f5efd9;
   --black: #000000;
   --white: #ffffff;
   --link-color: #174027;
@@ -16,10 +19,10 @@
   --container-width: 1200px;
   --content-width: 895px;
 
-  --primary-400: #275901;
-  --primary-500: #60470e;
+  --primary-400: #1e4c05;
+  --primary-500: #403415;
   --primary-600: #174027;
-  --primary-700: #15372f;
+  --primary-700: #10242a;
   --primary-800: #0a313c;
 
   --gray-200: #eaecf0;
@@ -28,6 +31,25 @@
   --gray-600: #b1b1b1;
   --gray-700: #767676;
   --gray-800: #5f6367;
+
+  /* Brand accent colors from https://github.com/DevRel-Foundation/drf-branding/blob/main/assets/style.css*/
+  --color-mint: #d8f5c6;        /* hsl(90, 65%, 81%) */
+  --color-blue: #d4f4fa;        /* hsl(193, 100%, 92%) */
+  --color-teal: #c6f4ea;        /* hsl(168, 85%, 91%) */
+  --color-gold: #fcf3d1;        /* hsl(41.9, 100%, 91.6%) */
+  --color-accent-text: #d8f5c6; /* same as --color-mint */
+  --color-link: #264e3a;        /* hsl(140, 38.2%, 18%) */
+
+  --color-background-dark: #1a1816;             /* hsl(42, 10%, 10%) */
+  --color-text-dark: #eae6d5;                   /* hsl(48, 20%, 90%) */
+  --color-background-secondary-1-dark: #2a251f; /* hsl(42, 16.2%, 16%) */
+  --color-background-secondary-2-dark: #332f29; /* hsl(42, 10%, 20%) */
+
+  --color-mint-dark: #1e4c05;                   /* hsl(90, 98%, 18%) */
+  --color-blue-dark: #10242a;                   /* hsl(193, 72%, 14%) */
+  --color-teal-dark: #0f2b25;                   /* hsl(168, 63%, 14%) */
+  --color-gold-dark: #403415;                   /* hsl(41.7, 74.5%, 21.6%) */
+  --color-link-dark: #d8f5c6;                   /* hsl(90, 65%, 81%) */
 
   // Pagefind styles from https://pagefind.app/docs/ui-usage/#customising-the-styles
   --pagefind-ui-text: var(--text-color) !important;
