@@ -1,5 +1,5 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7ace5f1b-6a7e-4944-9d11-66aca95df5ea/deploy-status)](https://app.netlify.com/sites/devrel-website/deploys)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+> [!IMPORTANT] 
+> 🗂️Archived. New website being deployed in https://github.com/DevRel-Foundation/site
 
 # The DevRel website
 
