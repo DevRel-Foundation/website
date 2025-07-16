@@ -5,12 +5,6 @@
 
 This repo houses the assets used to build the website for the [DevRel](https://dev-rel.org/) at https://dev-rel.org.
 
-> [!IMPORTANT]  
-> The site is not deployed to [dev-rel.org](https://dev-rel.org) yet. people can follow the ongoing progress of the website in the Netlify deploy preview:  
-👉 [https://devrel-website.netlify.app/](https://devrel-website.netlify.app/)
-
-
-
 ## 🧩 Editing the site
 
 This site is built using the [Hugo](https://gohugo.io) static site generator and hosted on [Netlify](https://netlify.com). The site uses the [Dot-Org Theme for Hugo](https://github.com/cncf/dot-org-hugo-theme) as a base and then has its own customisations.
